@@ -1,0 +1,7 @@
+department,item,quantity,sale_total
+Grocery,Apple,3,6.00
+Grocery,Orange,3,7.00
+Produce,Carrot,2,5.00
+Bakery,Bread,2,9.00
+Grocery,SKU-099,1,8.00
+Grocery,Milk,0,0.00
